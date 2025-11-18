@@ -82,7 +82,7 @@ mvn -q exec:java -Dexec.mainClass="edu.utn.p2.tfi.main.AppMenu"
 ---
 
 ## 5) Enlace al video
-- 🎬 **Video**: *[agregar enlace público aquí]*
+- 🎬 **Video**: *https://youtu.be/V0_Kd-HbTGg*
 
 ---
 
