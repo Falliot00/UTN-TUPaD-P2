@@ -1,0 +1,12 @@
+edu\utn\p2\tfi\dao\GenericDao.class
+edu\utn\p2\tfi\service\ProductoService.class
+edu\utn\p2\tfi\dao\impl\ProductoDaoImpl.class
+edu\utn\p2\tfi\entities\CodigoBarras.class
+edu\utn\p2\tfi\main\DemoRollback.class
+edu\utn\p2\tfi\dao\impl\CodigoBarrasDaoImpl.class
+edu\utn\p2\tfi\service\CodigoBarrasService.class
+edu\utn\p2\tfi\main\AppMenu.class
+edu\utn\p2\tfi\config\DatabaseConnection.class
+edu\utn\p2\tfi\dao\CodigoBarrasDao.class
+edu\utn\p2\tfi\entities\Producto.class
+edu\utn\p2\tfi\dao\ProductoDao.class
