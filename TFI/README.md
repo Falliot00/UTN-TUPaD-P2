@@ -93,6 +93,4 @@ entities/ -> Producto, CodigoBarras
 dao/      -> GenericDao + DAO/impl con PreparedStatement
 service/  -> validaciones + transacciones (commit/rollback)
 main/     -> AppMenu (CLI) y DemoRollback
-uml/      -> diagrama PlantUML/Mermaid
-docs/     -> Informe_Plantilla.md, Guion_Video.md, PRUEBAS.md
 ```
