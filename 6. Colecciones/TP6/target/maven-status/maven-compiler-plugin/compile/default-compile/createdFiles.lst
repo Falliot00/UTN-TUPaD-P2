@@ -1,0 +1,12 @@
+com\tienda\inventario\CategoriaProducto.class
+com\tienda\inventario\Producto.class
+com\utn\biblioteca\Autor.class
+com\tienda\inventario\Inventario.class
+com\utn\biblioteca\Biblioteca.class
+com\utn\universidad\MainUniversidad.class
+com\utn\universidad\Universidad.class
+com\tienda\inventario\Main.class
+com\utn\universidad\Profesor.class
+com\utn\biblioteca\Libro.class
+com\utn\biblioteca\MainBiblioteca.class
+com\utn\universidad\Curso.class
